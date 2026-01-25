@@ -20,5 +20,5 @@ My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 [![Mungeryang 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mungeryang)](https://github.com/anuraghazra/github-readme-stats)
 
 
-| [![Mungeryang 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mungeryang)](https://github.com/anuraghazra/github-readme-stats) | [![Mungeryang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mungeryang&theme=highcontrast)](https://git.io/streak-stats) |
+| [![Mungeryang 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mungeryang)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mungeryang" alt="GitHub Streak" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |

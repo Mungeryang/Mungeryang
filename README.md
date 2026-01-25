@@ -1,6 +1,8 @@
 ## Welcome to Mungeryang's HomePage 👋
 
-<img src="https://iamgeek32.org/wp-content/uploads/2020/02/saul-goodman.jpg?w=1280&h=720&crop=1" align="center" height="66" width="48" >
+<center>
+  <img src="https://iamgeek32.org/wp-content/uploads/2020/02/saul-goodman.jpg?w=1280&h=720&crop=1" align="center">
+</center>
 
 <!--
 **Mungeryang/Mungeryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -21,6 +21,6 @@ My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 | ---- | ---- |
 
 
-| ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api?username=Mungeryang&show_icons=true&theme=radical&include_all_commits=true) | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungeryang&theme=radical&layout=compact) |
+| ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api?username=Mungeryang&show_icons=true&theme=dark&include_all_commits=true) | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungeryang&theme=radical&layout=compact) |
 | ---- | ---- |
 

@@ -1,4 +1,4 @@
-## Welcome to Mungeryang's HomePage 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73359&width=435&lines=Welcome+to+Mungeryang%E2%80%98s+HomePage!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **Mungeryang/Mungeryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,4 @@ My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api?username=Mungeryang&show_icons=true&include_all_commits=true) | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungeryang&theme=radical&layout=compact) |
 | ---- | ---- |
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73359&width=435&lines=Welcome+to+Mungeryang%E2%80%98s+HomePage!%F0%9F%91%8B)](https://git.io/typing-svg)
+

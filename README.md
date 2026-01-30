@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <img src="https://iamgeek32.org/wp-content/uploads/2020/02/saul-goodman.jpg?w=1280&h=720&crop=1" align="center" height="220" width="320">
 -->
 
-👨🏻‍💻 I’m Yang Guimiao, and you can call me munger. Now, I’m a postgraduate of the University of Chinese Academy of Sciences. I’m advised by Professor Binbin Li in IIE-CAS - 06 Intelligent Cognitive Security Laboratory - G1.
+🧑‍💻 I’m Yang Guimiao, and you can call me munger. Now, I’m a postgraduate of the University of Chinese Academy of Sciences. I’m advised by Professor Binbin Li in IIE-CAS - 06 Intelligent Cognitive Security Laboratory - G1.
 
-🪩 My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
+🤖 My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 
 | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api?username=Mungeryang&show_icons=true&include_all_commits=true) | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungeryang&theme=radical&layout=compact) |
 | ---- | ---- |

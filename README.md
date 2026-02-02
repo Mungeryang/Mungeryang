@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+| ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api?username=Mungeryang&show_icons=true&include_all_commits=true) | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungeryang&theme=radical&layout=compact) |
+| ---- | ---- |
+
 <img src="https://iamgeek32.org/wp-content/uploads/2020/02/saul-goodman.jpg?w=1280&h=720&crop=1" align="center" height="220" width="320">
 -->
 
@@ -21,8 +24,7 @@ Here are some ideas to get you started:
 
 🤖 My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 
-| ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api?username=Mungeryang&show_icons=true&include_all_commits=true) | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungeryang&theme=radical&layout=compact) |
-| ---- | ---- |
+
 
 
 ### 📫 E-mail: mungerygm@gmail.com

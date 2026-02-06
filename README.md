@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 👉 I’m Guimiao Yang, a master's student from the [UCAS](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6).
 
+🤗 HuggingFace: [HomePage](https://huggingface.co/goodman2001)
+
 🤖 My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 
 👨🏻‍💻 🏀 🏋🏻‍♂️ 🏃🏻‍♂️

@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 
 🤖 My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 
-
-| ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api?username=Mungeryang&show_icons=true&include_all_commits=true) | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungeryang&theme=radical&layout=compact) |
-| ---- | ---- |
+[![GitHub Streak](https://github-readme-streak-stats-fawn-three.vercel.app?user=Mungeryang&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ### 📫 E-mail: mungerygm@gmail.com
 

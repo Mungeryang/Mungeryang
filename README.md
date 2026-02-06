@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats-fawn-three.vercel.app?user=Mungeryang&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
+<p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mungeryang&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Mungeryang's Github Graph" /> </p> 
+
 ### 📫 E-mail: mungerygm@gmail.com
 

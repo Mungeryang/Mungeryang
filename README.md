@@ -26,13 +26,11 @@ Here are some ideas to get you started:
 
 🧑‍💻 I’m Guimiao Yang, a master's student from the [UCAS](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6).
 
-![ucas](https://github.com/xiaoyao9933/UCASthesis/blob/master/figures/ucaslogo.pdf)
-
-and you can call me munger. Now, I’m a postgraduate of the University of Chinese Academy of Sciences. I’m advised by Professor Binbin Li in IIE-CAS - 06 Intelligent Cognitive Security Laboratory - G1.
-
 🤖 My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 
 [![GitHub Streak](https://github-readme-streak-stats-fawn-three.vercel.app?user=Mungeryang&theme=dark&border_radius=5)](https://git.io/streak-stats)
+
+[![The free things are the most expensive.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 

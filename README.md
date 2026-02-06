@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73359&width=435&lines=Welcome+to+Mungeryang%E2%80%98s+HomePage!%F0%9F%91%8B)](https://git.io/typing-svg)
+## <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">Welcome to Mungeryang's HomePage!</p>
 
 <!--
 **Mungeryang/Mungeryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api?username=Mungeryang&show_icons=true&include_all_commits=true) | ![Mungeryang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungeryang&theme=radical&layout=compact) |
 | ---- | ---- |
 
+<p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mungeryang&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Mungeryang's Github Graph" /> </p>
+
 <img src="https://iamgeek32.org/wp-content/uploads/2020/02/saul-goodman.jpg?w=1280&h=720&crop=1" align="center" height="220" width="320">
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73359&width=435&lines=Welcome+to+Mungeryang%E2%80%98s+HomePage!%F0%9F%91%8B)](https://git.io/typing-svg)
 -->
 
 🧑‍💻 I’m Yang Guimiao, and you can call me munger. Now, I’m a postgraduate of the University of Chinese Academy of Sciences. I’m advised by Professor Binbin Li in IIE-CAS - 06 Intelligent Cognitive Security Laboratory - G1.
@@ -26,7 +30,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats-fawn-three.vercel.app?user=Mungeryang&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mungeryang&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Mungeryang's Github Graph" /> </p> 
+
 
 ### 📫 E-mail: mungerygm@gmail.com
 

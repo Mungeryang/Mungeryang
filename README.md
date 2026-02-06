@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mungeryang&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Mungeryang's Github Graph" /> </p>
 
+[![The free things are the most expensive.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <img src="https://iamgeek32.org/wp-content/uploads/2020/02/saul-goodman.jpg?w=1280&h=720&crop=1" align="center" height="220" width="320">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73359&width=435&lines=Welcome+to+Mungeryang%E2%80%98s+HomePage!%F0%9F%91%8B)](https://git.io/typing-svg)
@@ -29,10 +31,6 @@ Here are some ideas to get you started:
 🤖 My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 
 [![GitHub Streak](https://github-readme-streak-stats-fawn-three.vercel.app?user=Mungeryang&theme=dark&border_radius=5)](https://git.io/streak-stats)
-
-[![The free things are the most expensive.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The free things are the most expensive.)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
 
 ### 📫 E-mail: mungerygm@gmail.com
 

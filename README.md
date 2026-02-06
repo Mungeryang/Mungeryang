@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73359&width=435&lines=Welcome+to+Mungeryang%E2%80%98s+HomePage!%F0%9F%91%8B)](https://git.io/typing-svg)
 -->
 
-🧑‍💻 I’m Yang Guimiao, and you can call me munger. Now, I’m a postgraduate of the University of Chinese Academy of Sciences. I’m advised by Professor Binbin Li in IIE-CAS - 06 Intelligent Cognitive Security Laboratory - G1.
+🧑‍💻 I’m Guimiao Yang, a master's student from the [UCAS](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6).
+
+![ucas](https://github.com/xiaoyao9933/UCASthesis/blob/master/figures/ucaslogo.pdf)
+
+and you can call me munger. Now, I’m a postgraduate of the University of Chinese Academy of Sciences. I’m advised by Professor Binbin Li in IIE-CAS - 06 Intelligent Cognitive Security Laboratory - G1.
 
 🤖 My Personal Blog: [Mungeryang 's Blog](https://www.mungeryang.top/)
 

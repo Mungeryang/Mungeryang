@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats-fawn-three.vercel.app?user=Mungeryang&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
-[![The free things are the most expensive.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![The free things are the most expensive.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The free things are the most expensive.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
